@@ -14,7 +14,7 @@ If you click on any device, you can see the last activity and the software used.
 
 ![](../img/google2.png)
 
-It is interesting but not showing detailed information.
+It is interesting but not showing detailed information of where the connection is coming from, only an attempt to geolocate the city.
 
 ## Checking Last Account Activity
 
@@ -22,10 +22,9 @@ The get more in depth information, you need to go on your Inbox and click on "De
 
 ![](../img/google3.png)
 
-This page gives detailed information on your recent activity, including the browser User Agent if you click on "Show Details":
+This page gives detailed information on your recent activity, including the IP address and the browser User Agent (if you click on "Show Details"):
 
 ![](../img/google4.png)
 
 
-This information is only available for a short period (a couple of days or weeks), so if you see any sign of suspicious activity, please take a screenshot or write somewhere any interesting information (date and time, IP address, user agent) . It may not be available next time you will check this page.
-
+This information is only available for a short period (a couple of days or weeks), so if you see any sign of suspicious activity, please take a screenshot or write somewhere any interesting information (date and time, IP address, user agent) as it may not be available next time you will check this page.
