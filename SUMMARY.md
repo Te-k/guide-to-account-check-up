@@ -13,3 +13,8 @@
     * [Check Active Sessions](twitter/sessions.md)
     * [Review Account History](twitter/history.md)
     * [Download Data for Futher Analysis](twitter/download.md)
+* [Yahoo](yahoo.md)
+    * [Check Your Recent Activity](yahoo/activity.md)
+    * [Check Application Passwords](yahoo/apps.md)
+    * [Check Your Recovery Information](yahoo/recovery.md)
+    * [Check Your Forwarding Settings](yahoo/forwarding.md)
