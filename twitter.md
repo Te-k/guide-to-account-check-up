@@ -1,6 +1,7 @@
-# Checking Twitter Accounts
+# Checking Your Twitter Account
 
-The methodology to check-up Twitter accounts includes :
+The methodology to check-up your Twitter account includes :
+
 * Check the applications authorized to use your Twitter account ([here](https://twitter.com/settings/applications))
 * Check the active sessions ([here](https://twitter.com/settings/applications))
 * Check the history of connections ([here](https://twitter.com/settings/your_twitter_data/login_history)) (it gives you information on connections for the past month)
