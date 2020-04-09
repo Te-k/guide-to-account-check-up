@@ -8,4 +8,4 @@ This guide aims at providing a methodology to check for suspicious configuration
 
 This guide **does not aim at securing online accounts** but only looking for suspicious events or configuration.
 
-This guide is currently under development. You can contribute to this text [here](). It was last updated in April 2020 and may not be fully accurate whan you are reading it.
+This guide is currently under development. You can contribute to this text [here](). It was last updated in April 2020 and may not be fully accurate when you are reading it.

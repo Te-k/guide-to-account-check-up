@@ -1,6 +1,6 @@
 # Review Applications Connected to your Account
 
-Facebook allows to connect your account to different types of external applications, wether because you want to login with your FB account or because you want to add  some features to Facebook. These apps are at the source of a lot of privacy and security issues, so you should take time to review this step carefully. To see the apps connected to your account, go to the page [Settings  > Apps and Websites](https://www.facebook.com/settings?tab=applications), you will see a list of applications connected to your account :
+Facebook allows to connect your account to different types of external applications, wether because you want to login with your Facebook account or because you want to add  some features to Facebook. These apps are at the source of a lot of privacy and security issues, so you should take time to review this step carefully. To see the apps connected to your account, go to the page [Settings  > Apps and Websites](https://www.facebook.com/settings?tab=applications), you will see a list of applications connected to your account :
 
 ![](../img/facebook3.png)
 
